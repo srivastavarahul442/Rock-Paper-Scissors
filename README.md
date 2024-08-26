@@ -1,0 +1,1 @@
+#Rock Paper Scissors" is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand: rock, paper, or scissors. The rules are straightforward: rock crushes scissors, scissors cuts paper, and paper covers rock. The game is often used as a playful decision-making tool or to resolve simple disputes.
