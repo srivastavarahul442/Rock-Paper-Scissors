@@ -9,6 +9,7 @@ let CompScores=0;
 const genCompChoice=()=>{
     let options=["rock","paper","scissors"];
     const ranIndex=Math.floor(Math.random()*3);
+    console.log("hello")
     return options[ranIndex];
 }
 
