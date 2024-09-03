@@ -16,6 +16,7 @@ const genCompChoice=()=>{
 const drawGame=()=>{
     msg.innerText="Match Draw, Play again!"
     msg.style.backgroundColor="#081b31";
+    console.log("hello")
 }
 
 const showWinner = (userWin) =>{
