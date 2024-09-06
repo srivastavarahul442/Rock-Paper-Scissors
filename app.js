@@ -11,6 +11,7 @@ const genCompChoice=()=>{
     const ranIndex=Math.floor(Math.random()*3);
     console.log("hello")
     return options[ranIndex];
+    console.log("hello")
 }
 
 const drawGame=()=>{
